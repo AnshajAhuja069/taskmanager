@@ -182,7 +182,7 @@ function App() {
     
           {/* New div with image, hidden on mobile view */}
           <div className="hidden lg:block w-full max-w-[60%] flex-shrink-0">
-            <img src="img.png" alt="TaskBuddy" className="w-full h-full object-cover rounded-2xl" />
+            <img src="src/img.png" alt="TaskBuddy" className="w-full h-full object-cover rounded-2xl" />
           </div>
         </div>
       </div>
